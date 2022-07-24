@@ -22,6 +22,13 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## NOTES
+
+<img width="793" alt="Screenshot 2022-07-24 at 5 07 35 AM" src="https://user-images.githubusercontent.com/43066831/180628019-3d44f75f-4462-467e-ac3e-faeeb7f7eb89.png">
+<img width="1042" alt="Screenshot 2022-07-24 at 5 07 47 AM" src="https://user-images.githubusercontent.com/43066831/180628022-a13b30f9-29a0-455d-b16f-c8e012f71e53.png">
+<img width="1181" alt="Screenshot 2022-07-24 at 5 46 38 AM" src="https://user-images.githubusercontent.com/43066831/180628023-1f54f051-a0b4-4228-a0f6-9593e8d8969c.png">
+<img width="1182" alt="Screenshot 2022-07-24 at 6 08 00 AM" src="https://user-images.githubusercontent.com/43066831/180628026-b921164f-bced-45d7-ac48-ba5916fec785.png">
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
